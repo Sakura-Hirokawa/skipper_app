@@ -1,4 +1,5 @@
-# README
+# DMM WEBCAMPコンテンツ【JavaScriptを学ぼう】
+DMM WEBCAMPの学習コンテンツJavaScriptを学ぼうの13章【RailsにJS,jQueryを実装しよう】です。
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
